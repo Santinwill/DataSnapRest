@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/28 10:19:42.000.316,=C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Servidor\FormUnit1.pas</Transaction>
+    <Transaction>2023/04/28 10:19:43.000.356,=C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Servidor\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2023/04/28 10:19:44.000.963,=C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Servidor\WebModuleUnit1.pas</Transaction>
+    <Transaction>2023/04/28 10:19:45.000.976,=C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Servidor\js\base64.js</Transaction>
+    <Transaction>2023/04/28 10:19:45.000.990,=C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Servidor\js\json2.js</Transaction>
+    <Transaction>2023/04/28 10:19:45.000.983,=C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Servidor\js\ServerFunctionExecutor.js</Transaction>
+    <Transaction>2023/04/28 10:19:45.000.999,=C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Servidor\js\CallbackFramework.js</Transaction>
+    <Transaction>2023/04/28 10:19:46.000.021,=C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Servidor\js\base64-min.js</Transaction>
+    <Transaction>2023/04/28 10:19:46.000.010,=C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Servidor\js\ServerFunctions.js</Transaction>
+    <Transaction>2023/04/28 10:19:46.000.045,=C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Servidor\js\ServerFunctionExecutor-min.js</Transaction>
+    <Transaction>2023/04/28 10:19:46.000.033,=C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Servidor\js\json2-min.js</Transaction>
+    <Transaction>2023/04/28 10:19:46.000.060,=C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Servidor\js\CallbackFramework-min.js</Transaction>
+    <Transaction>2023/04/28 10:19:57.000.982,C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Servidor\FormUnit1.dfm=C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Servidor\FormUnitServidor.dfm</Transaction>
+    <Transaction>2023/04/28 10:19:57.000.982,C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Servidor\FormUnit1.pas=C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Servidor\FormUnitServidor.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/28 11:03:34.000.476,=C:\Users\des42\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/04/28 11:05:37.000.660,C:\Users\des42\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Cliente\UnitCliente.dfm</Transaction>
+    <Transaction>2023/04/28 11:05:37.000.660,C:\Users\des42\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Cliente\UnitCliente.pas</Transaction>
+    <Transaction>2023/04/28 11:05:48.000.995,C:\Users\des42\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Cliente\Cliente.dproj</Transaction>
+    <Transaction>2023/04/28 11:09:36.000.981,=C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Cliente\ClientClassesUnit1.pas</Transaction>
+    <Transaction>2023/04/28 11:09:37.000.497,=C:\Users\des42\Desktop\ProvaDelphi-WillianPedroSantin\Cliente\ClientModuleUnit1.pas</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ClientClassesUnit1.pas"/>
+    <File Path="ClientModuleUnit1.pas"/>
+    <File Path="ClientModuleUnit1.dfm"/>
+    <File Path="UnitCliente.pas"/>
+    <File Path="UnitCliente.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
